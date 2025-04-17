@@ -16,4 +16,4 @@ Este programa realiza una comprobación de palabras o cadenas introducidas por e
 ### Autor
 Inmaculada Rivera
 ### Licencia
-Licencia gratuita BSD
+Este proyecto se distribuye bajo la licencia MIT.
