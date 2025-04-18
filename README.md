@@ -10,7 +10,7 @@ Este programa realiza una comprobación de palabras o cadenas introducidas por e
 ## Instalación
 1. Clona el repositorio:
    ```bash
-   git clone "aún no disponible"
+   git clone https://github.com/InmaRivera/Tarea_online_5.git
 2. Una vez instalado para ejecutarlo puedes usar Visual Studio Code y presionando F5 se ejecuta el programa, donde se pedirá que introduzca una cadena y debes escribirla en la consola para que el programa pueda realizar la comprobación de esa cadena.
 
 ### Autor
